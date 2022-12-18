@@ -1,0 +1,15 @@
+{
+	"name": "game-design-fundamentals",
+	"version": "1.0.0",
+	"description": "Learn the fundamentals of game design by using the p5.play game engine!",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"v": "npm version patch --force",
+		"V": "npm version minor --force",
+		"version": "git add -A",
+		"postversion": "git push"
+	},
+	"author": "quinton-ashley",
+	"license": "GPL-3.0-only"
+}
