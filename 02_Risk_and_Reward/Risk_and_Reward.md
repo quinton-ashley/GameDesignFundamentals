@@ -18,6 +18,18 @@ Overall, the desire to be challenged may be tied to our basic human need for gro
 
 ---
 
+"Risk and Reward" by Masahiro Sakurai
+
+<https://www.youtube.com/watch?v=FXqEykD5Ub4&t=2s>
+
+---
+
+"Squeeze and Release" by Masahiro Sakurai
+
+<https://www.youtube.com/watch?v=TYh5SJb5gWk>
+
+---
+
 In game theory, risk and reward refer to the potential outcomes and their associated probabilities of different choices or strategies in a given situation.
 
 ---
@@ -42,15 +54,17 @@ A game with no rules or consequences may keep players
 
 ---
 
-# 01 Risk and Reward!
-
----
-
 What game design element provides risk in Wordle?
 
 What is the reward?
 
 The satisfaction of solving the wordle puzzle in 6 or less tries
 Social currency
+
+---
+
+"The Potential of One Button" by Masahiro Sakurai
+
+<https://www.youtube.com/watch?v=tafG03n89MY>
 
 ---

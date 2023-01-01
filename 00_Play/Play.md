@@ -157,6 +157,14 @@ Many of the world's most famous and well respected game designers got their star
 
 ---
 
+During this course we’re going to watch and discuss several videos from legendary game designer, Masahiro Sakurai, creator of Kirby and the Super Smash Bros. series!
+
+Let’s watch this video about frame rates ->
+
+<https://www.youtube.com/watch?v=Rjdmi7628GM>
+
+---
+
 Simulating real world physics with 100% accuracy isn't really possible. Your computer would have to simulate every atom in the universe to do that!
 
 In a modern 60fps video game, the physics simulator is responsible for updating the game world at least 60 times per second. Each frame must be produced in less than 16.6 milliseconds!
@@ -166,7 +174,5 @@ A good physics simulation for video games is one that's accurate enough to be be
 Creating a physics simulation for a video game requires a lot of complex math. Most video game developers use game engines that have built-in physics simulators.
 
 p5.play uses the planck physics engine behind the scenes, which provides a good balance between accuracy and performance.
-
----
 
 ---

@@ -1,10 +1,11 @@
 ---
-# Gaming
+# Play
 ---
 
 ## What’s the difference between a hard-core vs a casual approach to gaming?
 
 When taking a hard-core approach, players want to be challenged with more complex games they can research and obsess over to optimize their play.
+
 When taking a casual approach, players want to be entertained with games that have a simple premise so they can pick up and play easily.
 People don’t exclusively take a casual or hard-core approach to every game they play.
 
@@ -16,22 +17,22 @@ Ask, Kristine, ‘The Value of Calculations: The Coproduction of Theorycraft and
 
 ---
 
-Can you think of any “hard-core” gamers who you admire for their intense dedication to a game?
+## Can you think of any “hard-core” gamers who you admire for their intense dedication to a game?
 
-Olympian Michael Phelps
-Chess prodigy Magnus Carlson
-SSB Melee champion HungryBox (Juan Debiedma)
+- Olympian Michael Phelps
+- Chess prodigy Magnus Carlson
+- SSB Melee champion HungryBox (Juan Debiedma)
 
 ---
 
-Is it always desirable to be good at a game?
+## Is it always desirable to be good at a game?
 
 No, if people don’t like a game, they won’t want to play it at all!
 If people do like a game, it’s often desirable for them to achieve a game’s objectives, even when playing a game “just for fun”. But this isn’t always the case. For example, playing a game poorly on purpose against an inexperienced opponent to teach them how the game is played.
 
 ---
 
-Have you ever played a video game that rewards players for being “bad” at it?
+## Have you ever played a video game that rewards players for being “bad” at it?
 
 Skate 3 is a skateboarding video game that rewards players for completing tricks. It also has a reward system for counting how many bones the player character breaks after a fall! Players can even unlock achievements for really bad falls. Which technically makes it a form of playing the game well, to get all the fall damage achievements you must find the worst places to fall in the game.
 
@@ -43,16 +44,24 @@ Nathan Landel and Dan Olson, Why It's Rude to Suck at Warcraft, FoldingIdeas Cha
 
 ---
 
-Have you ever engaged in free play with a work of interactive digital art that you wouldn’t categorize as a video game?
+## Have you ever engaged in free play with a work of interactive digital art that you wouldn’t categorize as a video game?
 
 When I was in middle school the iPhone was brand new. There were a few apps that gained popularity perhaps only because the 3.5 inch touch screen of the iPhone was such a novel concept. I downloaded an app that displayed a fixed camera top down view of a Koi Pond. Players could tap on the screen to disperse food for the Koi fish and the fish would swim over to eat the food. If you held your finger on the screen
 
 ---
 
-Why can't free play exist in its purest form?
+## Why can't free play exist in its purest form?
 
-humans are natural game designers, we naturally create little games when engaging in free play
+Humans are natural game designers, we naturally create little games when engaging in free play.
 
 ---
 
 Share a real life example of a time you “gamified” an banal activity or created a little game for yourself while waiting for something.
+
+---
+
+"Kirby's Dream Land [Game Concepts]" by Masahiro Sakurai
+
+<https://www.youtube.com/watch?v=PBRt2D2YN44>
+
+---
