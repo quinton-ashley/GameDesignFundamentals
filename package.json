@@ -1,6 +1,6 @@
 {
 	"name": "game-design-fundamentals",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Learn the fundamentals of game design by using the p5.play game engine!",
 	"main": "index.js",
 	"scripts": {

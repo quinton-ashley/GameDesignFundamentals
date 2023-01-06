@@ -2,7 +2,7 @@
 # Risk and Reward
 ---
 
-challenges can be motivating and rewarding. When we overcome a challenge, we often feel a sense of accomplishment and satisfaction, which can boost our self-esteem and confidence.
+Challenges can be motivating and rewarding. When we overcome a challenge, we often feel a sense of accomplishment and satisfaction, which can boost our self-esteem and confidence.
 
 Another reason is that challenges can help us learn and grow. When we are faced with a challenge, we are often forced to think creatively and critically in order to find a solution. This process of problem-solving can help us develop new skills and knowledge, and can also help us become more adaptable and resilient.
 

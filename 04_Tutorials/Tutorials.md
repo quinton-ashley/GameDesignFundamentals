@@ -51,3 +51,15 @@ The 2D platformer genre has become extremely saturated over the last 50 years. E
 <https://www.youtube.com/watch?v=CVQ4PuihnTk>
 
 ---
+
+"Deconstruct, Analyze, and Rebuild" by Masahiro Sakurai
+
+<https://www.youtube.com/watch?v=7VD0K1Sr5u0>
+
+---
+
+"Just Let Them Play" by Masahiro Sakurai
+
+<https://www.youtube.com/watch?v=PlbwQ_rntCM>
+
+---
