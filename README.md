@@ -1,10 +1,10 @@
-# Game Design Fundamentals with p5.play
+# Game Design Fundamentals with p5play
 
 ## 00 Play
 
 What does it mean to play? Why do people make games? In this lesson we'll analyze the different play styles that people approach games with.
 
-p5.play learning objectives:
+p5play learning objectives:
 
 - create sprites and edit a sprite's properties
 - understand the difference between dynamic, static, and kinematic sprites
@@ -18,4 +18,4 @@ Project 00: Make a small Rube Goldberg machine that utilizes dynamic, static, an
 
 What makes games fun to play? Taking risks for rewards!
 
-p5.play learning objectives:
+p5play learning objectives:

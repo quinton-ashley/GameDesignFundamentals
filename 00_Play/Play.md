@@ -2,9 +2,9 @@
 # Play
 ---
 
-In this course you’ll learn the core principles of game design by making games with p5.play!
+In this course you’ll learn the core principles of game design by making games with p5play!
 
-p5.play is a game engine for online games and interactive art.
+p5play is a game engine for online games and interactive art.
 
 You probably signed up for this course because you want to know, “How can I make a good video game that people will enjoy playing?”
 
@@ -173,6 +173,6 @@ A good physics simulation for video games is one that's accurate enough to be be
 
 Creating a physics simulation for a video game requires a lot of complex math. Most video game developers use game engines that have built-in physics simulators.
 
-p5.play uses the planck physics engine behind the scenes, which provides a good balance between accuracy and performance.
+p5play uses the planck physics engine behind the scenes, which provides a good balance between accuracy and performance.
 
 ---

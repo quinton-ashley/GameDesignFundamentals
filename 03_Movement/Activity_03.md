@@ -2,7 +2,7 @@
 
 ## Pre-Requisites
 
-Reference these "Learn" pages on the p5.play website:
+Reference these "Learn" pages on the p5play website:
 
 - Camera page 0
 
